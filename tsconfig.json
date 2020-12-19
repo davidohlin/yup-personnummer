@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "ESNEXT",
+    "declaration": true,
+    "sourceMap": true,
+    "strict": true,
+    "noImplicitAny": true,
+    "noImplicitReturns": true,
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true
+  },
+  "include": ["index.ts"]
+}
