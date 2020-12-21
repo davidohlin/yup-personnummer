@@ -1,6 +1,6 @@
 {
   "name": "yup-personnummer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Adds validation for Swedish personal identity numbers to Yup",
   "main": "dist/yup-personnummer.cjs.js",
   "module": "dist/yup-personnummer.esm.js",
